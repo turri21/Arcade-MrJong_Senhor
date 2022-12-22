@@ -24,7 +24,7 @@
 		<dip bits="4,5" name="Lives" ids="6,4,5,3"/>
 		<dip bits="6,7" name="Coin" ids="1c/1c,1c/2c,1c/3c,2c/1c"/>
 	</switches>
-	<rom index="0" zip="blkbustr.zip" md5="none">
+	<rom index="0" zip="blkbustr.zip|mrjong.zip" md5="none">
 		<!-- main cpu -->
 		<part name="6a.bin" crc="e2a211a2"/>
 		<part name="c2.a7" crc="75070978"/>
