@@ -212,7 +212,7 @@ localparam CONF_STR = {
   "-;",
   "DIP;",
   "-;",
-  "J1,Button1,Start1,Start2,Coin1,Coin2;",
+  "J1,Fire,Start 1P,Start 2P,Coin,Coin2;",
   "Jn,A,Start,Select,R,L;",
   "T[0],Reset;",
   "R[0],Reset and close OSD;",
