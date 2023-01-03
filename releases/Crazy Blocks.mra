@@ -1,5 +1,6 @@
 <misterromdescription>
 	<name>Crazy Blocks</name>
+	<setname>crazyblk</setname>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<series></series>
@@ -9,7 +10,7 @@
 	<rbf>mrjong</rbf>
 	<about></about>
 	<resolution>15kHz</resolution>
-	<rotation>vertical</rotation>
+	<rotation>vertical (cw)</rotation>
 	<flip></flip>
 	<players>2</players>
 	<joystick>4-way</joystick>
