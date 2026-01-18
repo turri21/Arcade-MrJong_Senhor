@@ -1,3 +1,8 @@
+-=(Mr.Jong_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # Mr.Jong/CrazyBlocks/BlockBuster by Kiwako Co., Ltd.
 
 ## General description
@@ -51,3 +56,4 @@ Mr.Jong/CrazyBlocks/BlockBuster ported to MiSTerFPGA by Pierco (Pierre Cornier).
 - Samuel Giroux
 - Tony Escobar
 - wwark
+
